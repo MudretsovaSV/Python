@@ -1,0 +1,5 @@
+pip3 install pygame-1.9.2a0-cp35-none-win32.whl
+
+pip3 install pygame-1.9.4-cp27-cp27m-win_amd64.whl
+
+C:\Python27amd64\Scripts\pip3 install C:\Python27amd64\Scripts\pygame-1.9.4-cp27-cp27m-win_amd64.whl
